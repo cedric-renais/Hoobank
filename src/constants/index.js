@@ -89,7 +89,7 @@ export const stats = [
   },
   {
     id: 'stats-2',
-    title: 'Les entreprises nous font confiance',
+    title: 'Entreprises',
     value: '230+',
   },
   {
