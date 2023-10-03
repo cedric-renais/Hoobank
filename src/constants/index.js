@@ -40,7 +40,7 @@ export const features = [
     icon: star,
     title: 'Récompenses',
     content:
-      'Les meilleures cartes de crédit offrent des combinaisons alléchantes de promotions et de prix',
+      'Les meilleures cartes de crédit offrent des combinaisons alléchantes de promotions et de prix.',
   },
   {
     id: 'feature-2',
