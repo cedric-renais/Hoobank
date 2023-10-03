@@ -3,7 +3,7 @@ import { discount, robot } from '../assets';
 
 const Hero = () => {
   return (
-    <section
+    <header
       id="home"
       className={`flex md:flex-row flex-col ${styles.paddingY}`}
     >
@@ -47,7 +47,7 @@ const Hero = () => {
         <div className="absolute z-[0] w-[50%] h-[50%] right-20 bottom-20 blue__gradient" />
         {/* gradient end */}
       </div>
-    </section>
+    </header>
   );
 };
 
