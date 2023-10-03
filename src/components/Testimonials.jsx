@@ -15,12 +15,6 @@ const Testimonials = () => (
       <h2 className={styles.heading2}>
         Ce que nos clients <br className="sm:block hidden" /> disent de nous
       </h2>
-      <div className="w-full md:mt-0 mt-6">
-        <p className={`${styles.paragraph} text-left max-w-[450px]`}>
-          Tout ce dont vous avez besoin pour accepter les paiements par carte et
-          développer votre activité partout dans le monde.
-        </p>
-      </div>
     </div>
 
     <div

@@ -9,7 +9,6 @@ import {
   airbnb,
   binance,
   coinbase,
-  dropbox,
   send,
   shield,
   star,
@@ -190,19 +189,15 @@ export const socialMedia = [
 
 export const clients = [
   {
-    id: 'client-1',
+    id: 'airbnb',
     logo: airbnb,
   },
   {
-    id: 'client-2',
+    id: 'binance',
     logo: binance,
   },
   {
-    id: 'client-3',
+    id: 'coinbase',
     logo: coinbase,
-  },
-  {
-    id: 'client-4',
-    logo: dropbox,
   },
 ];
