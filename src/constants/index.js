@@ -94,8 +94,8 @@ export const stats = [
   },
   {
     id: 'stats-3',
-    title: 'Transaction',
-    value: '$230M+',
+    title: 'Transactions',
+    value: '€ 230M+',
   },
 ];
 
